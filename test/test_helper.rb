@@ -4,6 +4,6 @@ require 'minitest/pride'
 
 class ActiveSupport::TestCase
 
-  include FactoryGirl::Syntax::Methods
+  include FactoryBot::Syntax::Methods
 
 end
